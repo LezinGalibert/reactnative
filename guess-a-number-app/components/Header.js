@@ -18,12 +18,12 @@ const styles = StyleSheet.create({
         paddingTop: 36,
         backgroundColor: Colors.primary,
         alignItems: 'center',
-        justifyContent: 'center'
+        justifyContent: 'center',
     },
 
     headerTitle: {
         color: 'black',
-        //fontSize: 'big'
+        fontSize: 24
     }
 });
 
